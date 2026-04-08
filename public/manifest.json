@@ -1,0 +1,19 @@
+{
+  "name": "MagicPlay — Web3 Casino",
+  "short_name": "MagicPlay",
+  "description": "Provably fair casino on Solana, powered by MagicBlock Ephemeral Rollups",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050508",
+  "theme_color": "#a855f7",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["games", "finance"],
+  "screenshots": [
+    { "src": "/screenshot-lobby.png",  "sizes": "1280x720", "type": "image/png" },
+    { "src": "/screenshot-dice.png",   "sizes": "1280x720", "type": "image/png" }
+  ]
+}
